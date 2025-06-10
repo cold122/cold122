@@ -1,20 +1,20 @@
 <div align="center">
-<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Ing%2C+a+tech+goblin+and+magical+girl+wannabe+%E2%9C%A9" width="70%" />
+<img src="https://github.com/cold122/cold122/blob/main/assets/Stardew%20Valley.jpeg" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1500&pause=100&color=4B9CD3&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hey+there;I'm+cold122%2C+LLM+developer+and+game+enthusiast+%F0%9F%91%BB" width="70%" />
 <br><br>
 <pre>
-    💼 BSC @ UFMG • Back-end dev • Platform Engineer
-    💻 System programming languages • DevOps 
-    📖 Software architecture • Distributed systems
-    🎮 Music • Games • Anime • Code • Art
-    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
+    💻 LLM Core Developer • C++/Python Engineer
+    🚀 High-performance Computing • System Optimization
+    🧠 Transformers • Distributed Training • Model Serving
+    🎮 Steam Veteran: Stardew Valley • Oxygen Not Included • GTA
+    🍰 Dessert Chef: Cakes • Macarons • Puddings • Soufflés
 </pre>
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
     
-[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
-[![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng)
-[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
-[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
+[![](https://img.shields.io/badge/Steam-171a21?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198837604341/)
+[![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)]()
+[![](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)]()
+[![](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)]()
 </div>
